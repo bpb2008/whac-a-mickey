@@ -1,0 +1,27 @@
+.grid {
+    width: 606px; 
+    height: 606px; 
+    display: flex; 
+    flex-wrap: wrap; 
+}
+
+.square {
+    width: 200px; 
+    height: 200px; 
+    border: solid #000000 1px; 
+    background-color: #ffffff; 
+}
+
+.mole { 
+    background-image: url('images/bpbmickey.jpg'); 
+    background-size: cover; 
+}
+
+* {
+    background-color: #f1ee8e;
+    align-items: center; 
+}
+
+h1 {
+    
+}
